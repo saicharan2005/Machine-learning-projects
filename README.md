@@ -1,2 +1,3 @@
-# Salary-prediction
-a basic salary prediction using linear regresssion model
+# Machine Learning projects
+a basic ml projects such as salary prediction, Diabetes prediction etc.
+
